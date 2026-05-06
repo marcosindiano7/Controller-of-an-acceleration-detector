@@ -6,7 +6,6 @@ The project implements a real-time controller capable of reading acceleration va
 
 ## Overview
 
-This project was developed as part of the *Microprocessor-Based Systems* course at Universidad Politécnica de Madrid.
 
 The main objective was to design and implement a complete embedded application based on a real-time operating system, integrating sensor acquisition, user interaction, visual feedback, serial communication and modular firmware architecture.
 
